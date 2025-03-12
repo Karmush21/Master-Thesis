@@ -1,0 +1,14 @@
+run_*
+__pycache__/
+__pycache__/*.pyc
+test_log.txt
+images_test/
+slice.png
+slice_filled.png
+TRUNet/text_logs
+TRUNet/tensorboard_logs
+models/
+inference_images/
+inference_test/
+inference_logs/
+attention_maps/
